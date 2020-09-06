@@ -826,9 +826,8 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("images/image-de-presentation.bmp");
+    background-image: url("images/image-de-presentation.jpg");
 }
-
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
